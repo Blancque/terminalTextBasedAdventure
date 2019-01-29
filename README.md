@@ -18,5 +18,5 @@ slowTyping for Game and Story Text.
 
 2. Commented down to CHOICE 4
 
-3.Renamed start() to ChapterOne() and renamed inside() to ChapterOneA1()
+3. Renamed start() to ChapterOne() and renamed inside() to ChapterOneA1()
 
