@@ -13,6 +13,7 @@ based around/using ASCII and multiple choice systems.
 # EngineSkeleton v3.1 29/01/2019
 1. Added two scrolling text functions named slowTyping and fastTyping. Fastyping mainly used for ASCII display,
 slowTyping for Game and Story Text.
-2. Commented down to CHOICE 4.\n
+2. Commented down to CHOICE 4.
+
 3.Renamed start() to ChapterOne and renamed inside() to ChapterOneA1()
 
